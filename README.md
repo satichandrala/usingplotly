@@ -1,5 +1,8 @@
-# usingplotly
-The repository contains the usage of plotly, a python library for data visualizations
+# Using python's famous plotly library for graphing
+
+- The repository contains the usage of plotly, a python library for data visualizations.
+
+- The main goal is to understand the various graphing scenarios starting from the basic plots to advanced use such as using plotly for latex
 
 - The dataset is the Air Quality dataset from the UC irvine's Machine learning Repository.
 
